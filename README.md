@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=fakhergh)
 
 - 🔭 I’m currently working on [Homnifi](https://homnifi.com/)
-- 🌱 I’m currently learning [Python](https://www.python.org)
+- 🌱 I’m currently learning [Swift](https://www.swift.org/)
 - 💬 Ask me about **React**, **React Native** & **NodeJs**
 - 📫 How to reach me: **fakherghouili@gmail.com**
 - 🎖️ JSNAD Certfied. [Show certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f5f3d77f-c398-5c77-882b-1c2931c0d286-fakher-ghouili-openjs-nodejs-application-developer-jsnad-certificate.pdf)
